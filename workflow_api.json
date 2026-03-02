@@ -149,7 +149,7 @@
   },
   "121": {
     "inputs": {
-      "image": "face.png"
+      "image": "face"
     },
     "class_type": "LoadImage",
     "_meta": {
@@ -282,7 +282,7 @@
   },
   "151": {
     "inputs": {
-      "image": "ref.jpg"
+      "image": "ref"
     },
     "class_type": "LoadImage",
     "_meta": {
